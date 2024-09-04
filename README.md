@@ -1,35 +1,33 @@
-# Crypto Digital Wallet MetaMask, Trust Wallet clone, Binance Wallet & Tonkeeper Clone Development Service & Source Code
+# Crypto Digital Wallet: MetaMask, Trust Wallet Clone, Binance Wallet & Tonkeeper Clone Development Service & Source Code
 
-<p float="center">
+<p align="center">
  <img src="https://github.com/user-attachments/assets/5f451879-ca2b-4f6b-9594-c41a2035704e" width="800" height="800" />
 </p>
 
 ## Overview
-Mega Payer Digital Wallet is a comprehensive blockchain wallet that offers a user-friendly interface for managing cryptocurrencies and NFTs. With functionality similar to MetaMask, Mega Payer enhances the user experience with additional features, including advanced settings and integrated support options.
+
+**Mega Payer Digital Wallet** is a comprehensive blockchain wallet that offers a user-friendly interface for managing cryptocurrencies and NFTs. With functionality similar to MetaMask, Mega Payer enhances the user experience with additional features, including advanced settings and integrated support options.
 
 ## Features
 
 ### User-Friendly Home Page
 - **Balance Display**: The home page prominently shows your current balance in a sleek box, updated in real-time. This feature provides an immediate overview of your assets.
 
-
-
 ### Assets and Network Management
 - **Assets Tab**: Easily manage your cryptocurrencies across various blockchain networks, including Ethereum, Binance Smart Chain, and more.
   - **Send**: Users can send cryptocurrencies by entering the recipient's address manually or by scanning a QR code. The interface allows for gas fee adjustments and specifying transaction amounts.
-  - **Receive**: Generate a unique wallet address and QR code to receive funds securely and conveniently. 
+  - **Receive**: Generate a unique wallet address and QR code to receive funds securely and conveniently.
   - **NFTs Tab**: Manage your Non-Fungible Tokens (NFTs) with detailed information, including artwork, metadata, and transaction history. Users can send NFTs to other addresses seamlessly.
 
 ## Bot Previews
-<p float="center">
+
+<p align="center">
  <img src="https://github.com/user-attachments/assets/5f451879-ca2b-4f6b-9594-c41a2035704e" width="400" />
-  <img src="https://github.com/user-attachments/assets/3ce34be9-a863-41ce-9fe7-96c085919a5d" width="400" />
-  <img src="https://github.com/user-attachments/assets/d22bdb47-587a-479a-8578-4edc5da52995" width="400" />
-  <img src="https://github.com/user-attachments/assets/df65552c-3533-4a5b-9f7a-4ba9e07164a2" width="400" />
-  
-  
- 
+ <img src="https://github.com/user-attachments/assets/3ce34be9-a863-41ce-9fe7-96c085919a5d" width="400" />
+ <img src="https://github.com/user-attachments/assets/d22bdb47-587a-479a-8578-4edc5da52995" width="400" />
+ <img src="https://github.com/user-attachments/assets/df65552c-3533-4a5b-9f7a-4ba9e07164a2" width="400" />
 </p>
+
 ### Transaction History
 - **History Tab**: A comprehensive log of all transactions, displaying transaction IDs, timestamps, amounts, and statuses. This feature helps users keep track of all activities and verify transactions.
 
@@ -56,17 +54,14 @@ Mega Payer Digital Wallet is a comprehensive blockchain wallet that offers a use
 Mega Payer Digital Wallet offers a secure and comprehensive solution for managing digital assets. With its familiar yet enhanced interface, it provides an excellent experience for both novice and experienced blockchain users. Explore the world of cryptocurrencies and NFTs with confidence and ease using Mega Payer.
 
 ## How to Buy
-To purchase source code,
+To purchase source code, please visit our official [Website](https://www.chainsoft.pk/taptoearn).
 
-please visit our official [Website](https://www.chainsoft.pk/taptoearn).
-
-For inquiries or support,
-
-contact us via [Chainsoft.pk](https://linktr.ee/Chainsoft.pk?utm_source=linktree_admin_share).
+For inquiries or support, contact us via [Chainsoft.pk](https://linktr.ee/Chainsoft.pk?utm_source=linktree_admin_share).
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/226a790b-9dc6-4425-a735-54f83cdac537" width="200" />
 </p>
+
 ## 💼 Why Choose Us?
 
 - **Expert Team**: Our team of blockchain experts has years of experience in developing cutting-edge blockchain solutions.
@@ -76,6 +71,5 @@ contact us via [Chainsoft.pk](https://linktr.ee/Chainsoft.pk?utm_source=linktree
 ## 📞 Get in Touch!
 
 Ready to take your business to the next level with our blockchain development service? Contact us today to get started!
-
 
 For any further questions or support, please don't hesitate to contact us via our [Website](https://www.chainsoft.pk/) or [Chainsoft.pk](https://linktr.ee/Chainsoft.pk?utm_source=linktree_admin_share).
